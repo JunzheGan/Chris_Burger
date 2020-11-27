@@ -64,6 +64,6 @@ _According to Data Ethics Framework[5], there are three principles, namely Trans
 _[1]  “Get the Data,” Insideairbnb.com. [Online]. Available: http://insideairbnb.com/get-the-data.html. [Accessed: 26-Nov-2020]._
 _[2]  S. Gupta, “Airbnb rental listings dataset mining - towards Data science,” Towards Data Science, 04-Jan-2019. [Online]. Available: https://towardsdatascience.com/airbnb-rental-listings-dataset-mining-f972ed08ddec. [Accessed: 26-Nov-2020]._
 _[3]  “Inside Airbnb. Adding data to the debate,” Insideairbnb.com. [Online]. Available: http://insideairbnb.com/about.html. [Accessed: 26-Nov-2020]._
-_[4]  “Airbnb Data Collection: Methodology and Accuracy,” Tomslee.net. [Online]. Available: https://tomslee.net/airbnb-data-collection-methodology-and-accuracy. [Accessed: 27-Nov-2020]._
+_[4]  “Airbnb Data Collection: Methodology and Accuracy,” Tomslee.net. [Online]. Available: https://tomslee.net/airbnb-data-collection-methodology-and-accuracy. [Accessed: 26-Nov-2020]._
 _[5]  Gov.uk. [Online]. Available: https://assets.publishing.service.gov.uk/government/uploads/system/uploads/attachment_data/file/923108/Data_Ethics_Framework_2020.pdf. [Accessed: 26-Nov-2020]._
 
